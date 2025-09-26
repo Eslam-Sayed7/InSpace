@@ -1,0 +1,9 @@
+[submodule "Desktop"]
+	path = Desktop
+	url = https://github.com/Youssef-Hossam2274/inspace-desktop
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Eslam-Sayed7/InSpace-back
+[submodule "AI"]
+	path = AI
+	url = https://github.com/Yousef-Albasel/Inspace-AI
